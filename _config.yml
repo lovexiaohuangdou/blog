@@ -16,7 +16,7 @@ tags_path : tags.html
 
 BASE_PATH : http://lovexiaohuangdou.github.io/blog
 
-baseurl: /StrayBirds
+baseurl: /blog
 title : uno-dbyll
 
 
