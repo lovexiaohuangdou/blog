@@ -60,9 +60,10 @@ type in and save:
 
 {% endhighlight %}
 
-and open the following url in your browser:
+and open the following url in your browser   爱吃小黄豆:
 
 
 <a href="http://localhost/phptest.php">http://localhost/phptest.php</a>
+
 
 ###爱吃小黄豆
