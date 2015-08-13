@@ -15,7 +15,7 @@ categories_path : categories.html
 tags_path : tags.html
 
 BASE_PATH : http://lovexiaohuangdou.github.io/blog
-
+baseurl: /blog
 title : 小黄豆的blog
 
 

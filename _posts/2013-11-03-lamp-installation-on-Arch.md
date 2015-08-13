@@ -7,7 +7,7 @@ categories: [linux]
 tags: [Arch, lamp, setup, php, mariadb, appache, mysql ]
 
 ---
-<img src="{{page.image}}" width="85%"/>
+<img src="{{site.baseurl page.image}}" width="85%"/>
 <br/>
 <br/>
 Linux, <a href="http://httpd.apache.org/">Apache</a>, MySQL/MariaDB, PHP: In short LAMP, a complete Open Source solution for web-developer. Apache Web Server,Often referred to as simply <a href="http://httpd.apache.org/">Apache</a>, a public-domain open source Web server developed by a loosely-knit group of programmers which runs roughly 50% of the servers in the world.
