@@ -74,3 +74,4 @@ $ sudo gedit /srv/http/info.php
 
 
 finally, restart apache and all is done.enjoy!
+###爱吃小黄豆
