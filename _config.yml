@@ -17,7 +17,7 @@ tags_path : tags.html
 BASE_PATH : http://lovexiaohuangdou.github.io/blog
 
 baseurl: /blog
-title : uno-dbyll
+title : 小黄豆的blog
 
 
 
@@ -25,7 +25,7 @@ author:
   name: Ankan Biswas
   role: Jekyll Theme
   email: support@ankanbiswas.in
-  github: talk2ankan
+  github: lovexiaohuangdou
   twitter: talk2ankan
   facebook: talk2ankan
   googleplus: +AnkanBiswasWorkspace
