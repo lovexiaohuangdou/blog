@@ -60,7 +60,7 @@ type in and save:
 
 {% endhighlight %}
 
-and open the following url in your browser   爱吃小黄豆:
+and open the following url in your browser   hehehe:
 
 
 <a href="http://localhost/phptest.php">http://localhost/phptest.php</a>
