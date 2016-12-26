@@ -29,4 +29,7 @@ author:
   facebook: talk2ankan
   googleplus: +AnkanBiswasWorkspace
   bio: "宁静致远，淡泊明志"
-  uno-dbyll: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/uno-dbyll.png
+  uno-dbyll:"/blog/assets/media/lamp.jpg"
+
+theme: jekyll-theme-cayman
+
